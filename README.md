@@ -1,5 +1,7 @@
 # AnimationBall
-This is basically a minor project made by java awt , i made this in my initial day of coding while i practicing the frame work of java
+This is basically a minor project made by java awt , i made this in my initial day of coding while i practicing the frame work of java.
+![alt text](<Screenshot 2024-07-02 172116.png>)
+![alt text](<Screenshot 2024-07-02 172103.png>)
 ## Description
 
 `AnimationBall` is a simple Java program that creates an animated ball within a graphical window using the AWT (Abstract Window Toolkit). The ball moves within the frame, bouncing off the edges.
